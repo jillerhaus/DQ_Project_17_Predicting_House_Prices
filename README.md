@@ -1,4 +1,4 @@
-# DataQuest Project 17: House Prices Using a Linear Regression Model
+# DataQuest Project 17: Predicting House Prices Using a Linear Regression Model
 
 This is the 17th project I completed in the "Data Analyst in Python" and "Data Scientist in Python" paths from Dataquest. In this project a dataset containing previously sold houses and some of their attributes was used to make predictions on their sale price using a linear regression model.
 
